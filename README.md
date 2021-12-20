@@ -1,2 +1,2 @@
 # DesafioTech2
-Repositório dedicado ao bootcamp do Desafio Tech da Avanade
+Um repositório base para futuro projetos ligado ao Desafio Tech 2
